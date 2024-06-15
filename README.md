@@ -7,7 +7,6 @@ This project contains MATLAB code to analyze energy load data. The code calculat
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Introduction
 
@@ -32,3 +31,15 @@ To get started with this project, you need to have MATLAB installed on your comp
 
    ```bash
    git clone https://github.com/yourusername/energy-load-analysis.git
+
+### Usage
+
+1. Open the MATLAB script containing the code (e.g., energy_load_analysis.m).
+
+2. Run the script. The code will:
+
+ • Read the energy load data from a predefined matrix.
+ • Calculate the total energy, average load, peak load, and load factor.
+ • Display the results.
+ • Generate a bar graph to visualize the energy load over time.
+ 
