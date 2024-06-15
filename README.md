@@ -39,7 +39,10 @@ To get started with this project, you need to have MATLAB installed on your comp
 2. Run the script. The code will:
 
  • Read the energy load data from a predefined matrix.
+ 
  • Calculate the total energy, average load, peak load, and load factor.
+ 
  • Display the results.
+ 
  • Generate a bar graph to visualize the energy load over time.
  
